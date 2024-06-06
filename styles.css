@@ -1,0 +1,38 @@
+li.one {
+    color: rgba(245, 241, 0, 0.555);
+    font-weight: bold;
+    font-size:x-large;
+    margin-left: 12cm;
+}   
+table {
+    width: 650px;
+    border-top: 7px solid rgb(43, 129, 17);
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    border: 1px solid #dddddd;
+  }
+  
+  td {
+    color:rgb(247, 210, 210);
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+      padding: 10px;
+      border: 3px solid rgb(43, 129, 17);
+  }
+h1.st1 {
+  color:yellow;
+  text-align: center;
+}
+
+  h2.st2 {
+    color:rgb(17, 218, 33);
+    text-align: center;
+  }
+
+  h3.st3 {
+    color:rgb(218, 148, 17);
+    text-align: justify;
+  }
